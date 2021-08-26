@@ -1,0 +1,8 @@
+dado = input("Digite qualquer coisa:")
+print(dado.isalnum)
+print(dado.isalpha)
+print(dado.isascii)
+print(dado.isdecimal)
+print(dado.isdigit)
+print(dado.isidentifier)
+print(dado.islower)
